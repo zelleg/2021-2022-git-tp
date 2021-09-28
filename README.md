@@ -10,6 +10,7 @@ You have to add your name, email, os and github handle here in the readme on a n
 | ----------------- | ---------------------------- | ----- | -------- |
 | Nicolas Beaussart | nic.beaussart+fges@gmail.com | Linux | beaussan |
 | Anatole de Chauveron | anatole.de-chauveron@lacatholille.fr | Linux | Anatole-DC |
+| Hugo Nollet | hugo.nollet@lacatholille.fr | Linux | hugonollet |
 
 Once this tp is finish, this repo will become private.
 

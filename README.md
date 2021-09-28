@@ -9,7 +9,7 @@ You have to add your name, email, os and github handle here in the readme on a n
 | Name              | Email                        | Os    | github   |
 | ----------------- | ---------------------------- | ----- | -------- |
 | Nicolas Beaussart | nic.beaussart+fges@gmail.com | Linux | beaussan |
-|                   |                              |       |          |
+| Anthony Quéré     | anthony.quere@lacatholille.fr| Linux | Anthony-Jhoiro|
 
 Once this tp is finish, this repo will become private.
 

@@ -11,7 +11,9 @@ You have to add your name, email, os and github handle here in the readme on a n
 | Nicolas Beaussart | nic.beaussart+fges@gmail.com | Linux | beaussan |
 | Anthony Quéré     | anthony.quere@lacatholille.fr| Linux | Anthony-Jhoiro|
 | Anatole de Chauveron | anatole.de-chauveron@lacatholille.fr | Linux | Anatole-DC |
-| Zelleg Massyl     | massyl.zelleg@lacatholille.fr| Windows  | zelleg 
+| Tristan Six          | sixtristan@orange.fr                 | Windows | Tarskan        |
+| Hugo Nollet          | hugo.nollet@lacatholille.fr          | Linux   | hugonollet     |
+| Zelleg Massyl     | massyl.zelleg@lacatholille.fr| Windows  | zelleg
 
 Once this tp is finish, this repo will become private.
 

@@ -6,11 +6,11 @@ Here the objective is to make your first pull request.
 
 You have to add your name, email, os and github handle here in the readme on a new line of the array :
 
-| Name              | Email                        | Os    | github   |
-| ----------------- | ---------------------------- | ----- | -------- |
-| Nicolas Beaussart | nic.beaussart+fges@gmail.com | Linux | beaussan |
-| Anthony Quéré     | anthony.quere@lacatholille.fr| Linux | Anthony-Jhoiro|
-| Anatole de Chauveron | anatole.de-chauveron@lacatholille.fr | Linux | Anatole-DC |
+| Name                 | Email                                | Os    | github         |
+| -------------------- | ------------------------------------ | ----- | -------------- |
+| Nicolas Beaussart    | nic.beaussart+fges@gmail.com         | Linux | beaussan       |
+| Anthony Quéré        | anthony.quere@lacatholille.fr        | Linux | Anthony-Jhoiro |
+| Anatole de Chauveron | anatole.de-chauveron@lacatholille.fr | Linux | Anatole-DC     |
 
 Once this tp is finish, this repo will become private.
 
